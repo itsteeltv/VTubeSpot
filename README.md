@@ -1,6 +1,6 @@
-# Twitch Clips Viewer
+# VTubeSpot
 
-Un site web pour visualiser les clips d'une chaîne Twitch.
+Un site web pour aidez les vtubers ainsi que leur viewers.
 
 ## Configuration
 
@@ -21,18 +21,3 @@ Un site web pour visualiser les clips d'une chaîne Twitch.
   - Date de création
 - Lien direct vers les clips
 - Design aux couleurs de Twitch
-
-## Hébergement
-
-Ce site est entièrement statique et peut être hébergé sur n'importe quelle plateforme d'hébergement web comme :
-- GitHub Pages
-- Netlify
-- Vercel
-- Firebase Hosting
-
-## Sécurité
-
-⚠️ Note : Dans une version de production, il est recommandé de :
-1. Ne pas exposer directement le Client ID dans l'interface
-2. Gérer l'authentification Twitch côté serveur
-3. Mettre en place un système de cache pour les tokens

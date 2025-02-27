@@ -2,14 +2,6 @@
 
 Un site web pour aidez les vtubers ainsi que leur viewers.
 
-## Configuration
-
-1. Créez une application sur [dev.twitch.tv](https://dev.twitch.tv)
-2. Notez votre Client ID
-3. Ouvrez le site dans votre navigateur
-4. Entrez votre Client ID dans le champ correspondant
-5. Entrez le nom de la chaîne Twitch dont vous voulez voir les clips
-
 ## Fonctionnalités
 
 - Interface utilisateur moderne et responsive
